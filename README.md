@@ -16,10 +16,15 @@ https://cloud.boltiot.com/login
 2) Create an account in Twilio.
 3) Create an account in Mailgun.
 4) Install Bolt Python Library.
+
 In the terminal type the below codes separately:
+
 => sudo apt-get y update
+
 => sudo apt install python3-pip
+
 => sudo pip3 install boltiot
+
 
 5) Install kivy package by the following command:
 
